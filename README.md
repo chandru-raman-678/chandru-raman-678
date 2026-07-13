@@ -61,6 +61,7 @@
 
 ## 📌 Featured Projects
 
+- 📈 Excel Data Analytics Projects (In Progress)
 - 📊 Urban Housing Market Analysis Dashboard
 - 🛒 E-Commerce SQL Database
 - 🦠 COVID-19 Data Cleaning & Visualization
