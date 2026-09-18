@@ -27,9 +27,10 @@
 * 🐍 Hands-on experience with **Python, Django, Flask, HTML, CSS, and JavaScript**
 * 🔗 Experienced in developing and integrating **REST APIs** for web applications
 * 🗄️ Experienced in working with **MySQL databases**, SQL queries, and CRUD operations
+* 🤖 Interested in **Generative AI** and AI-powered application development
 * 🌐 Interested in building responsive frontend applications and connecting them with backend APIs
 * 🚀 Passionate about developing practical, database-driven web applications
-* 🌱 Continuously improving my skills in **Python Full-Stack Development**
+* 🌱 Continuously improving my skills in **Python Full-Stack Development and Generative AI**
 * 🎯 Open to Entry-Level **Python Developer / Full-Stack Developer** Opportunities
 
 ---
@@ -65,6 +66,14 @@
 * JSON Data Handling
 * API Request & Response Handling
 * Frontend–Backend API Integration
+
+### 🤖 Generative AI
+
+* Generative AI
+* Prompt Engineering
+* LLM Fundamentals
+* AI API Integration
+* AI-Assisted Application Development
 
 ### 🗄️ Database
 
