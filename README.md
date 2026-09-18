@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandru Raman</h1>
 
-<h3 align="center">Junior Data Analyst</h3>
+<h3 align="center">Python Full-Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=36BCF7&lines=Junior+Data+Analyst;Junior+Data+Engineer;MIS+Analyst;Business+Analyst;Power+BI+Developer;Open+to+Entry-Level+Opportunities"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=36BCF7&lines=Python+Full-Stack+Developer;Python+Developer;Django+Developer;Flask+Developer;REST+API+Developer;Backend+Developer;Web+Application+Developer;Open+to+Entry-Level+Opportunities"/>
 </p>
 
 <p align="center">
@@ -22,61 +22,102 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Graduate specializing in **Data Analytics** (CGPA: **8.67**)
-- 📊 Passionate about solving business problems using data-driven insights
-- 🚀 Built end-to-end Data Analytics projects using Python, SQL, Power BI, and Excel
-- 🌱 Continuously learning modern analytics tools and best practices
-- 🎯 Open to Entry-Level Opportunities
+* 🎓 BCA Graduate specializing in **Data Analytics** (CGPA: **8.67**)
+* 💻 Python Full-Stack Developer focused on building **web applications and REST APIs**
+* 🐍 Hands-on experience with **Python, Django, Flask, HTML, CSS, and JavaScript**
+* 🔗 Experienced in developing and integrating **REST APIs** for web applications
+* 🗄️ Experienced in working with **MySQL databases**, SQL queries, and CRUD operations
+* 🌐 Interested in building responsive frontend applications and connecting them with backend APIs
+* 🚀 Passionate about developing practical, database-driven web applications
+* 🌱 Continuously improving my skills in **Python Full-Stack Development**
+* 🎯 Open to Entry-Level **Python Developer / Full-Stack Developer** Opportunities
 
 ---
 
 ## 🛠 Technical Skills
 
 ### 💻 Programming
-- Python
-- SQL
 
-### 📊 Data Analytics
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
+* Python
+* JavaScript
+* SQL
 
-### 📈 Business Intelligence
-- Power BI
-- Dashboard Development
-- Data Visualization
-- Reporting
+### 🌐 Frontend Development
 
-### 🗄 Data Management
-- ETL Processes
-- Database Concepts
-- Data Quality Management
+* HTML
+* CSS
+* JavaScript
+* Responsive Web Design
+
+### ⚙️ Backend Development
+
+* Python
+* Django
+* Flask
+* REST API Development
+* API Integration
+* CRUD Operations
+
+### 🔗 REST API
+
+* RESTful API Development
+* HTTP Methods — GET, POST, PUT, DELETE
+* JSON Data Handling
+* API Request & Response Handling
+* Frontend–Backend API Integration
+
+### 🗄️ Database
+
+* MySQL
+* SQL
+* Database Design
+* CRUD Operations
+* Database Integration
+
+### 🔧 Development
+
+* Web Application Development
+* Frontend & Backend Integration
+* REST API Integration
+* Database Integration
+* Debugging
+* Problem Solving
 
 ### 🧰 Tools
-- Advanced Excel
-- Microsoft Office Suite
+
+* Git
+* GitHub
+* VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-- 📈 Excel Data Analytics Projects (In Progress)
-- 📊 Urban Housing Market Analysis Dashboard
-- 🛒 E-Commerce SQL Database
-- 🦠 COVID-19 Data Cleaning & Visualization
-- 🍽️ NLP-Based Food Recommendation Dashboard
+* 🌐 **Job Portal Web Application**
+  Full-stack web application built using **Python, Flask, HTML, CSS, JavaScript, REST APIs, and MySQL**.
+
+* 🔗 **REST API-Based Web Application**
+  Developed backend REST APIs using **Python and Flask/Django**, handling HTTP requests, JSON responses, CRUD operations, and MySQL database integration.
+
+* 🛒 **E-Commerce Web Application**
+  Database-driven application with product, user, and application workflows using **Python, REST APIs, JavaScript, and MySQL**.
+
+* 🗄️ **MySQL Database Projects**
+  SQL-based database design, queries, relationships, and CRUD operations.
+
+* 💻 **Python Web Applications**
+  Web applications developed using **Django and Flask** with frontend and database integration.
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: **chandruraman5005@gmail.com**
-- 🌐 Portfolio: **https://chandru-raman-folio.lovable.app**
-- 💼 LinkedIn: **linkedin.com/in/chandru-r45218**
+* 📧 Email: **[chandruraman5005@gmail.com](mailto:chandruraman5005@gmail.com)**
+* 🌐 Portfolio: **https://chandru-raman-folio.lovable.app**
+* 💼 LinkedIn: **linkedin.com/in/chandru-r45218**
 
 ---
 
 <p align="center">
-<i><b>Transforming Data into Meaningful Insights through Analytics and Visualization.</b></i>
+<i><b>Building Web Applications and REST APIs with Python, Django, Flask, and Modern Web Technologies.</b></i>
 </p>
