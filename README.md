@@ -13,9 +13,6 @@
 <a href="https://linkedin.com/in/chandru-r45218">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://chandru-raman-folio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 </p>
 
 ---
