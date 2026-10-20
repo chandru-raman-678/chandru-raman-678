@@ -24,7 +24,7 @@
 
 * 🎓 BCA Graduate specializing in **Data Analytics** (CGPA: **8.67**)
 * 💻 Python Full-Stack Developer focused on building **web applications and REST APIs**
-* 🐍 Hands-on experience with **Python, Django, Flask, HTML, CSS, and JavaScript**
+* 🐍 Hands-on experience with **Python, Django, Flask, HTML, and CSS**
 * 🔗 Experienced in developing and integrating **REST APIs** for web applications
 * 🗄️ Experienced in working with **MySQL databases**, SQL queries, and CRUD operations
 * 🤖 Interested in **Generative AI** and AI-powered application development
@@ -40,14 +40,12 @@
 ### 💻 Programming
 
 * Python
-* JavaScript
 * SQL
 
 ### 🌐 Frontend Development
 
 * HTML
 * CSS
-* JavaScript
 * Responsive Web Design
 
 ### ⚙️ Backend Development
@@ -122,7 +120,7 @@
 ## 📫 Contact
 
 * 📧 Email: **[chandruraman5005@gmail.com](mailto:chandruraman5005@gmail.com)**
-* 🌐 Portfolio: **https://chandru-raman-folio.lovable.app**
+* Phone no: +91 8940695458
 * 💼 LinkedIn: **linkedin.com/in/chandru-r45218**
 
 ---
